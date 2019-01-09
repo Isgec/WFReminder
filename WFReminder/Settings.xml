@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <IntervalInMiliSeconds>5000</IntervalInMiliSeconds>
+  <LogFolderPath>D:\Temp</LogFolderPath>
+  <CreateLog>False</CreateLog>
+  <ERPLive>Data Source=192.9.200.129;Initial Catalog=inforerpdb;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=lalit;Password=scorpions</ERPLive>
+  <ERPTest>Data Source=192.9.200.44;Initial Catalog=inforerpdb;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=lalit;Password=scorpions</ERPTest>
+  <JoomlaLive>Data Source=192.9.200.150;Initial Catalog=IJTPerks;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=sa;Password=isgec12345</JoomlaLive>
+  <JoomlaTest>Data Source=.\LGSQL;Initial Catalog=IJTPerks;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=sa;Password=isgec12345</JoomlaTest>
+  <UseJoomlaLive>True</UseJoomlaLive>
+  <UseERPLive>True</UseERPLive>
+</Settings>
